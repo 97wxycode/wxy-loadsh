@@ -1,0 +1,22 @@
+{
+  "name": "wxy-loadsh",
+  "version": "0.0.2",
+  "description": "wxy-loadsh is very much!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wxy-loadsh",
+    "loadsh"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/97wxycode/wxy-loadsh"
+  },
+  "author": "wxycoding@163.com",
+  "license": "MIT",
+  "dependencies": {
+    "loadsh": "0.0.4"
+  }
+}
