@@ -1,6 +1,6 @@
 {
   "name": "wxy-loadsh",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "wxy-loadsh is very much!",
   "main": "index.js",
   "scripts": {
